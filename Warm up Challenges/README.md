@@ -1,3 +1,3 @@
 ### HackerRank Solutions
 
-This repository consists of HackerRank problem solving solutions in Python3.
+This folder consists of HackerRank problem solving solutions in Python3.
